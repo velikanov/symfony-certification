@@ -3,17 +3,22 @@
 ## Exam Topics
 
 ### PHP and Web Security
-- [Object Oriented Programming](http://www.php.net/manual/en/oop5.intro.php)
-- Namespaces
-- Interfaces
-- Anonymous functions and closures
-- Abstract classes
+* [Object Oriented Programming](http://www.php.net/manual/en/oop5.intro.php)
+* [Namespaces](http://php.net/manual/en/language.namespaces.php)
 
-> - Exception and error handling
-> - Traits
-> - PHP extensions
-> - SPL
-> - Web security (XSS, CSRF, etc.)
+https://knpuniversity.com/screencast/php-namespaces-in-120-seconds/namespaces
+https://knpuniversity.com/screencast/php-namespaces-in-120-seconds/namespaces
+* Interfaces
+* Anonymous functions and closures
+* Abstract classes
+
+--
+
+* Exception and error handling
+* Traits
+* PHP extensions
+* SPL
+* Web security (XSS, CSRF, etc.)
 
 ### HTTP
 - Client / Server interaction
