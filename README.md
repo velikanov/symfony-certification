@@ -9,13 +9,11 @@
 - Anonymous functions and closures
 - Abstract classes
 
---
-
-- Exception and error handling
-- Traits
-- PHP extensions
-- SPL
-- Web security (XSS, CSRF, etc.)
+> - Exception and error handling
+> - Traits
+> - PHP extensions
+> - SPL
+> - Web security (XSS, CSRF, etc.)
 
 ### HTTP
 - Client / Server interaction
@@ -23,13 +21,11 @@
 - HTTP request
 - HTTP response
 
---
-
-- HTTP methods
-- Cookies
-- Caching
-- Content negotiation
-- Language detection
+> - HTTP methods
+> - Cookies
+> - Caching
+> - Content negotiation
+> - Language detection
 
 ### Symfony Architecture
 - Symfony Standard Edition
@@ -41,14 +37,12 @@
 - Code organization
 - Request handling
 
---
-
-- Exception handling
-- Event dispatcher and kernel events
-- Official best practices
-- Release management
-- Backward compatibility promise
-- Deprecations best practices
+> - Exception handling
+> - Event dispatcher and kernel events
+> - Official best practices
+> - Release management
+> - Backward compatibility promise
+> - Deprecations best practices
 
 ### Standardization
 - Release management and roadmap schedule
@@ -60,9 +54,7 @@
 - Development best practices
 - Framework overloading
 
---
-
-- Semantic versioning
+> - Semantic versioning
 
 ### Bundles
 - Naming conventions
@@ -73,10 +65,8 @@
 - Overriding default error pages
 - Bundle inheritance
 
---
-
-- Event dispatcher and kernel events
-- Semantic configuration and compiler passes
+> - Event dispatcher and kernel events
+> - Semantic configuration and compiler passes
 
 ### Controllers
 - Naming conventions
@@ -100,13 +90,11 @@
 - Trigger redirects
 - Special internal routing attributes
 
---
-
-- Domain name matching
-- Conditional request matching
-- HTTP methods matching
-- User's locale guessing
-- Router debugging
+> - Domain name matching
+> - Conditional request matching
+> - HTTP methods matching
+> - User's locale guessing
+> - Router debugging
 
 ### Templating with Twig
 - Auto escaping
@@ -120,10 +108,8 @@
 - Translations and pluralization
 - String interpolation
 
---
-
-- Assets management
-- Debugging variables
+> - Assets management
+> - Debugging variables
 
 ### Forms
 - Forms creation
@@ -135,11 +121,9 @@
 - Handling file upload
 - Built-in form types
 
---
-
-- Data transformers
-- Form events
-- Form type extensions
+> - Data transformers
+> - Form events
+> - Form type extensions
 
 ### Data Validation
 - PHP object validation
@@ -148,10 +132,8 @@
 - Validation groups
 - Group sequence
 
---
-
-- Custom callback validators
-- Violations builder
+> - Custom callback validators
+> - Violations builder
 
 ### Dependency Injection
 - Service container
@@ -161,11 +143,9 @@
 - Tags
 - Semantic configuration
 
---
-
-- Factories
-- Compiler passes
-- Services autowiring
+> - Factories
+> - Compiler passes
+> - Services autowiring
 
 ### Security
 - Authentication
@@ -178,10 +158,8 @@
 - Roles
 - Access Control Rules
 
---
-
-- Guard authenticators
-- Voters and voting strategies
+> - Guard authenticators
+> - Voters and voting strategies
 
 ### HTTP Caching
 - Cache types (browser, proxies and reverse-proxies)
@@ -198,11 +176,9 @@
 - Options and arguments
 - Input and Output objects
 
---
-
-- Built-in helpers
-- Console events
-- Verbosity levels
+> - Built-in helpers
+> - Console events
+> - Verbosity levels
 
 ### Automated Tests
 - Unit tests with PHPUnit
@@ -214,19 +190,15 @@
 - Client configuration
 - Request and response objects introspection
 
---
-
-- PHPUnit bridge
-- Handling legacy deprecated code
+> - PHPUnit bridge
+> - Handling legacy deprecated code
 
 ### Miscellaneous
 - Error handling
 - Code debugging
 
---
-
-- Deployment best practices
-- Process
-- Data collectors
-- Web Profiler and Web Debug Toolbar
-- Internationalization and localization
+> - Deployment best practices
+> - Process
+> - Data collectors
+> - Web Profiler and Web Debug Toolbar
+> - Internationalization and localization
