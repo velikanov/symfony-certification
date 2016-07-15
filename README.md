@@ -3,7 +3,7 @@
 ## Exam Topics
 
 ### PHP and Web Security
-- Object Oriented Programming
+- [Object Oriented Programming](http://www.php.net/manual/en/oop5.intro.php)
 - Namespaces
 - Interfaces
 - Anonymous functions and closures
