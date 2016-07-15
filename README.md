@@ -3,22 +3,17 @@
 ## Exam Topics
 
 ### PHP and Web Security
-* [Object Oriented Programming](http://www.php.net/manual/en/oop5.intro.php)
-* [Namespaces](http://php.net/manual/en/language.namespaces.php)
+- [Object Oriented Programming](http://www.php.net/manual/en/oop5.intro.php)
+- [Namespaces](http://php.net/manual/en/language.namespaces.php), [PHP Namespaces in 120 Seconds](https://knpuniversity.com/screencast/php-namespaces-in-120-seconds/namespaces)
+- [Interfaces](http://php.net/manual/en/language.oop5.interfaces.php)
+- [Anonymous functions and closures](http://php.net/manual/en/functions.anonymous.php)
+- [Abstract classes](http://php.net/manual/en/language.oop5.abstract.php)
 
-https://knpuniversity.com/screencast/php-namespaces-in-120-seconds/namespaces
-https://knpuniversity.com/screencast/php-namespaces-in-120-seconds/namespaces
-* Interfaces
-* Anonymous functions and closures
-* Abstract classes
-
---
-
-* Exception and error handling
-* Traits
-* PHP extensions
-* SPL
-* Web security (XSS, CSRF, etc.)
+> - [Exception and error handling](http://php.net/manual/en/book.errorfunc.php), [Exceptions](http://php.net/manual/en/language.exceptions.php), [Errors in PHP 7](http://php.net/manual/en/language.errors.php7.php)
+> - [Traits](http://php.net/manual/en/language.oop5.traits.php)
+> - [PHP extensions](http://php.net/manual/en/extensions.php)
+> - [SPL](http://php.net/manual/en/book.spl.php)
+> - Web security (XSS, CSRF, etc.)
 
 ### HTTP
 - Client / Server interaction
